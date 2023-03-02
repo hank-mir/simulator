@@ -1,0 +1,6 @@
+{
+  "Name": "公告",
+  "GuardNumber": 8461,
+  "Level": 99,
+  "RangeHate": 8
+}

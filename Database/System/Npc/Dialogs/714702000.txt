@@ -1,0 +1,4 @@
+{
+  "Id": 714702000,
+  "Content": "请选择你要神佑的装备。<#PC:ITEMSUBTYPE_EQUIP_WEAPON><#PC:1><#UI:OpenEquipLevelUp>武器神佑<#UI/><#PC:ITEMSUBTYPE_EQUIP_CHEST_ARMOR><#PC:1><#UI:OpenEquipLevelUp>衣服神佑<#UI/><#PC:ITEMSUBTYPE_EQUIP_HAT><#PC:1><#UI:OpenEquipLevelUp>头盔神佑<#UI/><#PC:ITEMSUBTYPE_EQUIP_BELT><#PC:1><#UI:OpenEquipLevelUp>腰带神佑<#UI/><#PC:ITEMSUBTYPE_EQUIP_SHOES><#PC:1><#UI:OpenEquipLevelUp>鞋子神佑<#UI/>"
+}

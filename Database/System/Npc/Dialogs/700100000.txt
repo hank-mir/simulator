@@ -1,0 +1,4 @@
+{
+  "Id": 700100000,
+  "Content": "<#UI:EquipSkill>刻印铭文<#UI/>"
+}

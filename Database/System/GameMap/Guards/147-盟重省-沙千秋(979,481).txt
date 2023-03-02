@@ -1,0 +1,8 @@
+{
+  "GuardNumber": 6784,
+  "FromMapId": 147,
+  "FromMapName": "AlliedProvince",
+  "FromCoords": "979,481",
+  "Direction": "右上",
+  "RegionName": "6784-沙千秋"
+}
